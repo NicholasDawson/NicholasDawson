@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm [Nick Dawson](https://nicholasdawson.me)
 
 - 🔭 I’m currently working on [PiSniff](https://github.com/ritsec/PiSniff) & updating my website.
-- 🌱 I’m currently learning ```Java``` and ```JavaScript```
+- 🌱 I’m currently learning ```Java```, ```JavaScript```, ```PHP```, and ```MySQL``` 
 - 💻 Languages I know: ```Python```, ```HTML```, ```CSS```
 - 👯 I’m looking to collaborate on web scraping projects using Python.
 - 💬 Ask me about web scraping using Python!
