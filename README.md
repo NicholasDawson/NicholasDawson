@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm [Nick Dawson](https://nicholasdawson.me)
 
 - 🔭 I’m currently working on updating my website, creating inventory software, and a URL Shortener/Link Analytics Tool
-- 🌱 I’m currently learning ```Java```, ```C```, ```Rust```, ```JavaScript```, ```PHP```, and ```MySQL```
+- 🌱 I’m currently learning ```Java```, ```C```, ```Go```, ```JavaScript```, ```PHP```, and ```MySQL```
 - 💻 Languages I know: ```Python```, ```HTML```, ```CSS```
 - 👯 I’m looking to collaborate on web scraping projects using Python.
 - 💬 Ask me about web scraping using Python!
