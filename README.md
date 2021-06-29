@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm [Nick Dawson](https://ndawson.me)
 
 - 🔭 I’m currently working on a URL Shortener/Link Analytics Tool in Django
-- 🌱 I’m currently learning ````Django```
+- 🌱 I’m currently learning ```Django```
 - 💻 Languages I know: ```Python```, ```HTML```, ```CSS```
 - ⌨️ Languages I am familiar with: ```C```, ```Java```, ```JavaScript```, ```PHP```, & ```MySQL```
 - 👯 I’m looking to collaborate on web scraping projects using Python.
