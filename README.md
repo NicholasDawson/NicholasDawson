@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm [Nick Dawson](https://ndawson.me)
 
-- 🔭 I’m currently working on a URL Shortener/Link Analytics Tool in Django
+- 🔭 I’m currently working on a URL Shortener/Link Analytics Tool in Django and a [Proximity Chat App in Flutter](https://github.com/DevanTurtle7/grid) w/ [@DevanTurtle7](https://github.com/DevanTurtle7)
 - 🌱 I’m currently learning ```Flutter```
 - 💻 Tools I know well: ```Python```
 - ⌨️ Tools I am familiar with: ```C```, ```Java```, ```JavaScript```, ```PHP```, ```HTML```, ```CSS```, ```Django```, & ```SQL```
