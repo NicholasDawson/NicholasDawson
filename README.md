@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a URL Shortener/Link Analytics Tool in Django and a [Proximity Chat App in Flutter](https://github.com/DevanTurtle7/grid) w/ [@DevanTurtle7](https://github.com/DevanTurtle7)
 - 🌱 I’m currently learning ```Flutter``` ```Django``` ```Go``` ```React```
 - 💻 I know well: ```Python``` ```HTML```
-- ⌨️ I know: ```C``` ```Java``` ```JavaScript``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS```
+- ⌨️ I know: ```C``` ```Java``` ```JavaScript``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS``` ```Bootstrap```
 - 📫 How to reach me: ```nick (at) ndawson (dot) me```
 - 😄 Pronouns: **He/Him**
 - 🏫 Studying **Software Engineering BS** at *Rochester Institute of Technology*
