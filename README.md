@@ -3,7 +3,7 @@
 ### I'm looking for a Software Engineering Summer/Fall 2022 Internship/Co-op! Please reach out with any opportunities!
 
 - 🔭 I’m currently working on a URL Shortener/Link Analytics Tool in Django and a [Proximity Chat App in Flutter](https://github.com/DevanTurtle7/grid) w/ [@DevanTurtle7](https://github.com/DevanTurtle7)
-- 🌱 I’m currently learning ```Flutter``` ```Django``` ```Go```
+- 🌱 I’m currently learning ```Flutter``` ```Django``` ```Go``` ```React```
 - 💻 I know well: ```Python``` ```HTML```
 - ⌨️ I know: ```C``` ```Java``` ```JavaScript``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS```
 - 📫 How to reach me: ```nick (at) ndawson (dot) me```
