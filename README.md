@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm [Nick Dawson](https://ndawson.me)
 
 - 🔭 I’m currently working on a URL Shortener/Link Analytics Tool in Django and a [Proximity Chat App in Flutter](https://github.com/DevanTurtle7/grid) w/ [@DevanTurtle7](https://github.com/DevanTurtle7)
-- 🌱 I’m currently learning ```Flutter``` ```Django``` ```Go``` ```React```
+- 🌱 I’m currently learning ```Django``` ```Kotlin``` ```Vue```
 - 💻 I know well: ```Python``` ```HTML``` ```Java```
 - ⌨️ I know: ```C``` ```JavaScript``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS``` ```Bootstrap```
 - 📫 How to reach me: ```nick (at) ndawson (dot) me```
