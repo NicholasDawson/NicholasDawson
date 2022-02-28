@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ```Django``` ```Kotlin``` ```Vue``` ```Azure```
 - 💻 I know well: ```Python``` ```HTML``` ```Java```
 - ⌨️ I know: ```C``` ```JavaScript``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS``` ```Bootstrap``` ```React```
-- 📫 How to reach me: ```nick (at) ndawson (dot) me```
+- 📫 How to reach me: ```github (at) ndawson (dot) me```
 - 😄 Pronouns: **He/Him**
 - 🏫 Studying **Software Engineering BS** at *Rochester Institute of Technology*
 - 🏢 [Connect with me on LinkedIn](https://www.linkedin.com/in/nicholasmdawson/)
