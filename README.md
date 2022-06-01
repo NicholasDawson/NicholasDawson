@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm [Nick Dawson](https://ndawson.me)
 
-- 🔭 I’m currently working on a URL Shortener/Link Analytics Tool in Django
-- 🌱 I’m currently learning ```Django``` ```Kotlin``` ```Vue``` ```Azure```
-- 💻 I know well: ```Python``` ```HTML``` ```Java```
-- ⌨️ I know: ```C``` ```JavaScript``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS``` ```Bootstrap``` ```React```
+- 🔭 I’m currently working on a rock climbing journal app written in Flutter
+- 🌱 I’m currently learning ```Kotlin``` ```Azure``` ```Flutter```
+- 💻 I know well: ```Python``` ```HTML``` ```Java``` ```JavaScript```
+- ⌨️ I know: ```C``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS``` ```Bootstrap``` ```React``` ```Vue```
 - 📫 How to reach me: ```github (at) ndawson (dot) me```
 - 😄 Pronouns: **He/Him**
 - 🏫 Studying **Software Engineering BS** at *Rochester Institute of Technology*
