@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm [Nick Dawson](https://ndawson.me)
 
-- 🔭 I’m currently working on a rock climbing journal app written in Flutter
-- 🌱 I’m currently learning ```Kotlin``` ```Azure``` ```Flutter```
-- 💻 I know well: ```Python``` ```HTML``` ```Java``` ```JavaScript```
-- ⌨️ I know: ```C``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS``` ```Bootstrap``` ```React``` ```Vue```
+- 🔭 I’m currently working on a rock climbing journal app written in Flutter.
+- 🌱 I’m currently learning: ```Flutter``` ```Go```
+- 💻 I'm expierenced with: ```Python``` ```HTML``` ```Java``` ```JavaScript``` ```Vue``` ```Bootstrap```
+- ⌨️ I'm familiar with: ```C``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS``` ```React``` ```Kotlin``` ```Spring```
 - 📫 How to reach me: ```github (at) ndawson (dot) me```
 - 😄 Pronouns: **He/Him**
 - 🏫 Studying **Software Engineering BS** at *Rochester Institute of Technology*
