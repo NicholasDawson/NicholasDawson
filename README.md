@@ -1,9 +1,9 @@
-# 👋 Hi there! I'm [Nick Dawson](https://ndawson.me)
+# 👋 Hi there! I'm [Nick Dawson](https://ndawson.me), a full-stack web developer.
 
-- 🔭 I’m currently working on a rock climbing journal app written in Flutter.
-- 🌱 I’m currently learning: ```Flutter``` ```Go```
-- 💻 I'm expierenced with: ```Python``` ```HTML``` ```Java``` ```JavaScript``` ```Vue``` ```Bootstrap```
-- ⌨️ I'm familiar with: ```C``` ```PostgreSQL``` ```MySQL``` ```PHP``` ```CSS``` ```React``` ```Kotlin``` ```Spring```
+- 🔭 I’m currently working on a url shortener app using GCP App Engine/Go/React with [@devanturtle7](https://github.com/DevanTurtle7)
+- 🌱 I’m currently learning: ```Go```
+- 💻 I'm expierenced with: ```Python``` ```HTML``` ```Java``` ```JavaScript``` ```Vue``` ```Bootstrap``` ```Kotlin``` ```Spring``` ```SQL```
+- ⌨️ I'm familiar with: ```C``` ```PHP``` ```CSS``` ```React```
 - 📫 How to reach me: ```github (at) ndawson (dot) me```
 - 😄 Pronouns: **He/Him**
 - 🏫 Studying **Software Engineering BS** at *Rochester Institute of Technology*
