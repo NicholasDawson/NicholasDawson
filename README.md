@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm [Nick Dawson](https://ndawson.me), a full-stack web developer.
 
 - 🔭 I’m currently working on the course [Practical Deep Learning](https://course.fast.ai/)
-- 🏢 Currently working at [Steelcase](https://steelcase.com) as a Software Engineering Intern
+- 🏢 Currently working at [Teknic](https://teknic.com) as an Applications Engineering Co-Op
 - 🏫 Studying **Software Engineering BS** at *[Rochester Institute of Technology](https://rit.edu)*
 - 📫 How to reach me: ```github (at) ndawson (dot) me```
 
